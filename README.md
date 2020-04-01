@@ -1,2 +1,2 @@
 # BookStore (Front-End Only)
-A web application imitating an online book store.
+A web application imitating an online book store.(Front-End-only)
